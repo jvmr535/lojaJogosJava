@@ -1,0 +1,10 @@
+Fabiana Barreto#FABIANA#Diablo III#1#04/12/2018#10.0#10.0#0.0#Cartão de débito#10.0#Mídia Fisica#ConfirmacaoPendente#104.864.096-51#-
+Fabiana Barreto#FABIANA#Diablo III#2#04/12/2018#10.0#20.0#0.0#Cartão de débito#20.0#Mídia Digital#ConfirmacaoPendente#104.864.096-51#-
+Fabiana Barreto#FABIANA#Diablo III#1#04/12/2018#10.0#10.0#0.0#Cartão de débito#10.0#Mídia Digital#ConfirmacaoPendente#104.864.096-51#-
+Fabiana Barreto#FABIANA#Diablo III#5#04/12/2018#10.0#50.0#0.0#Cartão de débito#50.0#Mídia Digital#ConfirmacaoPendente#104.864.096-51#-
+Fabiana Barreto#FABIANA#Diablo III#4#04/12/2018#10.0#40.0#0.0#Vale-compra#40.0#Mídia Digital#ConfirmacaoPendente#104.864.096-51#-
+null#admin#Diablo III: Reaper of Souls#2#05/12/2018#1.0#2.0#0.0#Dinheiro#2.0#Mídia Fisica#ConfirmacaoPendente#null#-
+null#admin#Diablo III#2#05/12/2018#10.0#20.0#0.0#Dinheiro#20.0#Mídia Fisica#ConfirmacaoPendente#null#-
+null#admin#Diablo III#5#05/12/2018#10.0#50.0#0.0#Dinheiro#50.0#Mídia Fisica#ConfirmacaoPendente#null#-
+null#admin#Kingdon's Of Amalur#3#05/12/2018#120.0#360.0#0.0#Dinheiro#360.0#Mídia Fisica#ConfirmacaoPendente#null#-
+null#admin#teste#2#02/02/2222#2.0#4.0#0.0#Dinheiro#4.0#Mídia Fisica#ConfirmacaoPendente#null#-

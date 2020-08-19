@@ -1,0 +1,15 @@
+*************************Loja de Jogos************************
+
+******************Comprovante de Pagamento********************
+
+Cliente: Rafa
+CPF: 999.999.999-99
+Jogo adquirido: Diablo III: 2 unidades.
+Forma de aquisição: Mídia Fisica
+Valor unitário: 10.0
+Valor total: 20.0
+Forma de pagamento: Cartão de crédito
+Data da compra: 01/12/2018
+Funcionário Responsável: rafa
+
+**************Obrigado pela compra. Volte Sempre*************
